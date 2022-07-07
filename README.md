@@ -1,1 +1,1 @@
-# Relay_selection in VFD-NOMA using XGBoost Algorithm
+# Relay_selection in VFD-NOMA system using XGBoost Algorithm
